@@ -1,0 +1,19 @@
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\bin\Debug\Tpvs1.exe
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\bin\Debug\Tpvs1.pdb
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.Form1.resources
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.Properties.Resources.resources
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.csproj.GenerateResource.Cache
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.exe
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.pdb
+G:\amina stud\TPs VS\Tpvs1\Tpvs1\bin\Debug\Tpvs1.exe.config
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\bin\Debug\Tpvs1.exe.config
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.exe
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.pdb
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\bin\Debug\Tpvs1.exe
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\bin\Debug\Tpvs1.pdb
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.Form1.resources
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.Properties.Resources.resources
+C:\Users\razig360\Desktop\vs\Tpvs1\Tpvs1\Tpvs1\obj\x86\Debug\Tpvs1.csproj.GenerateResource.Cache
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\bin\Debug\Tpvs1.exe.config
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Debug\Tpvs1.exe
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Debug\Tpvs1.pdb

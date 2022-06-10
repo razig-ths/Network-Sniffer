@@ -1,0 +1,8 @@
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Debug\Tpvs1.Form1.resources
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Debug\network sniffer.csproj.GenerateResource.Cache
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\bin\Debug\networksniffer.exe.config
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\bin\Debug\networksniffer.exe
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\bin\Debug\networksniffer.pdb
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Debug\networksniffer.Properties.Resources.resources
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Debug\networksniffer.exe
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Debug\networksniffer.pdb

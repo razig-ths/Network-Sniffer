@@ -1,0 +1,8 @@
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\bin\Release\Tpvs1.exe.config
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\bin\Release\Tpvs1.exe
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\bin\Release\Tpvs1.pdb
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Release\Tpvs1.Form1.resources
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Release\Tpvs1.Properties.Resources.resources
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Release\network sniffer.csproj.GenerateResource.Cache
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Release\Tpvs1.exe
+C:\Users\razig360\Desktop\vs\git\Tpvs1\net\Tpvs1\obj\x86\Release\Tpvs1.pdb
